@@ -1,18 +1,8 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan 18 14:55:11 2023
+
 
 @author: hannahabbo
 """
 # -*- coding: utf-8 -*-
-"""
-DS2001 (S23-Matherly) Week 2
-
-Rename this file as lastname_firstname_week02.py
-
-
-@author: [YOUR NAME HERE]
 """
 
 FILENAME = "spotify_songnames.txt"
