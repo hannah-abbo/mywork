@@ -1,16 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-DS2001 (S23-Matherly) Week 6
-
-Rename this file as lastname_firstname_week06.py
-
-
-@author: [YOUR NAME HERE]
 """
 
-
-
-"""
 In this week's exercise, we're going to analyze some data on ads from the
 Super Bowl.
 
