@@ -1,14 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-DS2001 (S23-Matherly) Week 8
-
-Rename this file as lastname_firstname_week08.py
-
-
-@author: [YOUR NAME HERE]
-"""
-
-
 
 """
 In this week's exercise, we're going to be trying to calculate 
