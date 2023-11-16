@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-DS2001 (S23-Matherly) Week 5
-
-Rename this file as lastname_firstname_week05.py
-
-
-@author: [Hannah Abbo]
-"""
-
 """
 In this week's exercise, we're going to finish our app that reads in receipts.
 You should reuse the code from last week for Q1-3.
